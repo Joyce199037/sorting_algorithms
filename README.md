@@ -1,4 +1,6 @@
-0x1B. C - Sorting algorithms & Big O
+#Sorting Algorithms & Big O
+
+General
 The goal of this project are as follows:
 
 Writing at least four different sorting algorithms
